@@ -1,7 +1,8 @@
 # Projeto de Classificação de Imagens
 
 Este projeto implementa um sistema de classificação de imagens utilizando Python e Jupyter Notebook.
-Projeto de etsudo de análise de imagem
+
+Projeto de estudo de análise de imagem
 
 ## Requisitos
 
