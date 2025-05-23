@@ -21,3 +21,4 @@ Projeto de estudo de análise de imagem
 - Treinamento de modelo de classificação
 - Avaliação do modelo
 - Visualização dos resultados
+- Possivel carregar outras imagens para mais testes
